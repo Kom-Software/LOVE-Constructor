@@ -1,0 +1,22 @@
+{
+    "WindowText" : "rgb(255, 255, 255)",
+    "Button" : "rgb(21, 21, 21)",
+    "Light" : "rgb(31, 31, 31)",
+    "Midlight" : "rgb(26, 26, 26)",
+    "Dark" : "rgb(10, 1, 9)",
+    "Mid" : "rgb(14, 3, 11)",
+    "Text" : "rgb(255, 255, 255)",
+    "BrightText" : "rgb(255, 255, 255)",
+    "ButtonText" : "rgb(255, 255, 255)",
+    "Base" : "rgb(0, 0, 0)",
+    "Window" : "rgb(21, 21, 21)",
+    "Shadow" : "rgb(0, 0, 0)",
+    "Highlight" : "rgb(0, 120, 215)",
+    "Highlighted Text" : "rgb(255, 255, 255)",
+    "Link" : "rgb(0, 0, 255)",
+    "LinkVisited" : "rgb(255, 0, 255)",
+    "AlternateBase" : "rgb(10, 10, 10)",
+    "NoRole" : "rgb(0, 0, 0)",
+    "ToolTipBase" : "rgb(255, 255, 255)",
+    "ToolTipText" : "rgb(0, 0, 0)"
+}

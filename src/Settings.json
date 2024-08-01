@@ -1,0 +1,7 @@
+{
+    "ScreenSize" : [1280, 720],
+    "Fullscreen" : true,
+    "Font" : "Arial",
+    "Project" : "Projects/TestProject.json",
+    "Theme" : "Themes/LOVEConstructor_Dark.json"
+}
